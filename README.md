@@ -1,2 +1,2 @@
 # Ubiquitous Wii Balance Board
-Wii Balance Board Data to UPOD
+Wii Balance Board for UPOD
